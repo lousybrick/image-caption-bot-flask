@@ -2,7 +2,7 @@ numpy
 pandas
 keras
 matplotlib
-pickle-mixin
+pickle-mixin==1.0.2
 warnings
 Click==7.0
 Flask==1.1.1
