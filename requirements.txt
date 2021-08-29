@@ -1,10 +1,7 @@
 numpy 
 pandas
-keras.applications.resnet
-keras.preprocessing.sequence
-keras.preprocessing
-keras.models
-matplotlib.pyplot
+keras
+matplotlib
 pickle
 warnings
 Click==7.0
